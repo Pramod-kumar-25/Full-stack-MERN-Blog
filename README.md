@@ -72,7 +72,7 @@ If you need to run only the backend:
 4. **Start the server**:
    ```bash
    npm start
-  The server will be available at 'http://localhost:5000'.
+  The server will be available at 'http://localhost:8000'.
   
 
 
